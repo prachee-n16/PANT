@@ -1,0 +1,103 @@
+{
+  "hash": "aeffd65e",
+  "configHash": "e577e00d",
+  "lockfileHash": "6f950555",
+  "browserHash": "62198281",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "35ef62c8",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "40ce96fc",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "cdcc9370",
+      "needsInterop": false
+    },
+    "@mui/material": {
+      "src": "../../node_modules/@mui/material/index.js",
+      "file": "@mui_material.js",
+      "fileHash": "7e6d8a4c",
+      "needsInterop": false
+    },
+    "@mui/material/AppBar": {
+      "src": "../../node_modules/@mui/material/AppBar/index.js",
+      "file": "@mui_material_AppBar.js",
+      "fileHash": "1c91bb25",
+      "needsInterop": false
+    },
+    "@mui/material/IconButton": {
+      "src": "../../node_modules/@mui/material/IconButton/index.js",
+      "file": "@mui_material_IconButton.js",
+      "fileHash": "d25a07da",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Brightness4": {
+      "src": "../../node_modules/@mui/icons-material/Brightness4.js",
+      "file": "@mui_icons-material_Brightness4.js",
+      "fileHash": "c70ee961",
+      "needsInterop": true
+    },
+    "@mui/icons-material/Brightness7": {
+      "src": "../../node_modules/@mui/icons-material/Brightness7.js",
+      "file": "@mui_icons-material_Brightness7.js",
+      "fileHash": "2f836631",
+      "needsInterop": true
+    },
+    "@mui/icons-material": {
+      "src": "../../node_modules/@mui/icons-material/esm/index.js",
+      "file": "@mui_icons-material.js",
+      "fileHash": "c9c06262",
+      "needsInterop": false
+    },
+    "@mui/icons-material/Reddit": {
+      "src": "../../node_modules/@mui/icons-material/Reddit.js",
+      "file": "@mui_icons-material_Reddit.js",
+      "fileHash": "361d23bd",
+      "needsInterop": true
+    },
+    "@mui/icons-material/SendRounded": {
+      "src": "../../node_modules/@mui/icons-material/SendRounded.js",
+      "file": "@mui_icons-material_SendRounded.js",
+      "fileHash": "653064b8",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-E4W5WJPV": {
+      "file": "chunk-E4W5WJPV.js"
+    },
+    "chunk-PJTQMJSE": {
+      "file": "chunk-PJTQMJSE.js"
+    },
+    "chunk-BPJXQFV6": {
+      "file": "chunk-BPJXQFV6.js"
+    },
+    "chunk-YIEACHPR": {
+      "file": "chunk-YIEACHPR.js"
+    },
+    "chunk-BTBAEWEB": {
+      "file": "chunk-BTBAEWEB.js"
+    },
+    "chunk-7SE5VB4N": {
+      "file": "chunk-7SE5VB4N.js"
+    },
+    "chunk-E257EVYL": {
+      "file": "chunk-E257EVYL.js"
+    },
+    "chunk-P7HKE6HK": {
+      "file": "chunk-P7HKE6HK.js"
+    },
+    "chunk-6EPYQA3G": {
+      "file": "chunk-6EPYQA3G.js"
+    }
+  }
+}
