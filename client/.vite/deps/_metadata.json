@@ -2,66 +2,78 @@
   "hash": "015a5287",
   "configHash": "e577e00d",
   "lockfileHash": "26a99e3f",
-  "browserHash": "bf6b388a",
+  "browserHash": "b2d8399a",
   "optimized": {
     "react": {
       "src": "../../node_modules/react/index.js",
       "file": "react.js",
-      "fileHash": "3bc608d2",
+      "fileHash": "390a58b0",
       "needsInterop": true
     },
     "react-dom/client": {
       "src": "../../node_modules/react-dom/client.js",
       "file": "react-dom_client.js",
-      "fileHash": "90a01bff",
+      "fileHash": "4141d31c",
       "needsInterop": true
     },
     "react-router-dom": {
       "src": "../../node_modules/react-router-dom/dist/index.js",
       "file": "react-router-dom.js",
-      "fileHash": "616995a7",
+      "fileHash": "bcd4e5fd",
       "needsInterop": false
     },
     "@mui/material": {
       "src": "../../node_modules/@mui/material/index.js",
       "file": "@mui_material.js",
-      "fileHash": "b1b06c72",
+      "fileHash": "70df0281",
       "needsInterop": false
     },
     "@mui/icons-material/Reddit": {
       "src": "../../node_modules/@mui/icons-material/Reddit.js",
       "file": "@mui_icons-material_Reddit.js",
-      "fileHash": "a97cfd0c",
+      "fileHash": "e5e96278",
       "needsInterop": true
     },
     "@mui/icons-material/SendRounded": {
       "src": "../../node_modules/@mui/icons-material/SendRounded.js",
       "file": "@mui_icons-material_SendRounded.js",
-      "fileHash": "d7b8642d",
+      "fileHash": "70b42bd2",
       "needsInterop": true
     },
     "uuid": {
       "src": "../../node_modules/uuid/dist/esm-browser/index.js",
       "file": "uuid.js",
-      "fileHash": "8dbb271d",
+      "fileHash": "339e5850",
       "needsInterop": false
     },
     "@mui/icons-material/Check": {
       "src": "../../node_modules/@mui/icons-material/Check.js",
       "file": "@mui_icons-material_Check.js",
-      "fileHash": "52be2293",
+      "fileHash": "7f3a4820",
       "needsInterop": true
+    },
+    "@mui/material/Grid": {
+      "src": "../../node_modules/@mui/material/Grid/index.js",
+      "file": "@mui_material_Grid.js",
+      "fileHash": "28d32dd5",
+      "needsInterop": false
     }
   },
   "chunks": {
+    "chunk-XQV4E4FM": {
+      "file": "chunk-XQV4E4FM.js"
+    },
+    "chunk-JXUG2T3M": {
+      "file": "chunk-JXUG2T3M.js"
+    },
+    "chunk-HCGTTI5U": {
+      "file": "chunk-HCGTTI5U.js"
+    },
+    "chunk-CW3SADZN": {
+      "file": "chunk-CW3SADZN.js"
+    },
     "chunk-WXSKVWTA": {
       "file": "chunk-WXSKVWTA.js"
-    },
-    "chunk-XSVL55PP": {
-      "file": "chunk-XSVL55PP.js"
-    },
-    "chunk-IF4PDCDC": {
-      "file": "chunk-IF4PDCDC.js"
     },
     "chunk-4JI2AD7N": {
       "file": "chunk-4JI2AD7N.js"
