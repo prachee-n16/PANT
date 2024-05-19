@@ -4,9 +4,11 @@ import {
   Box,
   Typography,
   Avatar,
+  Alert,
 } from "@mui/material";
 import RedditIcon from "@mui/icons-material/Reddit";
 import SendRoundedIcon from "@mui/icons-material/SendRounded";
+import CheckIcon from "@mui/icons-material/Check";
 import React, { useState, useEffect } from "react";
 import { v1 as uuidv1 } from "uuid";
 
@@ -48,6 +50,7 @@ export function stringAvatar(name) {
 
 const Chat = () => {
   const [newMessage, setNewMessage] = useState("");
+
   const [channelMessages, setChannelMessages] = useState([
     {
       id: "1234",
@@ -55,6 +58,40 @@ const Chat = () => {
       message: "Data from r/csCareerQuestions! Ask me anything :)",
     },
   ]);
+
+  const sendQuestion = async (e) => {
+    // Define the URL of your localhost server
+    const q_url = "http://127.0.0.1:8000/q/"; // Replace YOUR_PORT with the port number
+    var sysData;
+    // Make a GET request to your localhost server
+    fetch(q_url)
+      .then((response) => {
+        // Check if the response is successful
+        if (!response.ok) {
+          throw new Error("Network response was not ok");
+        }
+        // Parse the response as JSON
+        return response.json();
+      })
+      .then((data) => {
+        // Do something with the data from the response
+        sysData = data;
+      })
+      .catch((error) => {
+        // Handle any errors that occurred during the fetch
+        console.error("Fetch error:", error);
+      });
+
+    var id = uuidv1();
+    setChannelMessages((prev) => [
+      ...prev,
+      {
+        id: id,
+        message: sysData,
+        user: "Sub Brain",
+      },
+    ]);
+  };
 
   const handleOnSubmit = async (e) => {
     e.preventDefault();
@@ -68,6 +105,7 @@ const Chat = () => {
         user: "Prachee Nanda",
       },
     ]);
+    sendQuestion(newMessage);
     setNewMessage("");
   };
 
@@ -92,7 +130,7 @@ const Chat = () => {
       <Box>
         {channelMessages.map((message, index) => (
           <Box display="flex" key={message.id} sx={{ direction: "row", p: 2 }}>
-            {message.user && (
+            {message.message && message.user && (
               <Avatar
                 variant="rounded"
                 key={message.id + "Avatar"}
@@ -100,26 +138,35 @@ const Chat = () => {
                 {...stringAvatar(message.user)}
               />
             )}
-            <Box key={message.id + "Message"}>
-              <Typography
-                sx={{
-                  backgroundColor: "secondary.main",
-                  color: "primary.main",
-                  p: 2,
-                  mx: 2,
-                  borderRadius: "10px",
-                }}
-              >
-                {message.message}
-              </Typography>
-            </Box>
+            {message.message && (
+              <Box key={message.id + "Message"}>
+                <Typography
+                  sx={{
+                    backgroundColor: "secondary.main",
+                    color: "primary.main",
+                    p: 2,
+                    mx: 2,
+                    borderRadius: "10px",
+                  }}
+                >
+                  {message.message}
+                </Typography>
+              </Box>
+            )}
             <Box sx={{ flexGrow: 1 }} />
           </Box>
         ))}
       </Box>
 
+      {/* {hasResponse.systemSent && (
+        <Alert icon={<CheckIcon fontSize="inherit" />} severity="success">
+          We are processing your request!
+        </Alert>
+      )} */}
+
       <form onSubmit={handleOnSubmit}>
         <TextField
+          //   disabled={!hasResponse}
           value={newMessage}
           id="outlined-basic"
           label=""
