@@ -14,7 +14,7 @@ from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import ChatPromptTemplate
 from langchain.chains import create_retrieval_chain
 
-embedding = OpenAIEmbeddings(openai_api_key="sk-proj-IOzFRrBYg586gxZgtNjRT3BlbkFJa4XWFpR9d6gdGrmV9AJS")
+
 db = Chroma(persist_directory="./chromadb",embedding_function=embedding)
 
 
