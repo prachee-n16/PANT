@@ -1,0 +1,88 @@
+Title,Top Comments
+"Starting a new fully remote position, as a financial analyst.",
+Prep for Engineering Undergrad -> CS Masters?,
+How to network at a no name school,Talk with your classmates. Hang out with them after school. Pick up a hobby/sport that has you around other people. Networking isn't an active activity; it's something that develops naturally from being a social person.
+What amount of feeling overwhelmed is normal at first coding internship?,"Same bro, same., First off you’re an intern and still in college, as a senior dev I would be extremely impressed if you weren’t overwhelmed. I want to see you exhaust your resources before you come to me. This will show resilience, hard work, and build character. You shouldn’t have hard deadlines as an intern if your company isn’t exploiting intern labor. Take your opportunity to ONLY learn and grow as an engineer. The work will come with pressure and deadlines but in time. You’re in a very good place since you’re getting paid to learn. The things you’re doing could absolutely be done by someone with experience so don’t worry about messing things up. Always learn because that’s what you can take with you when you’re done."
+How much vacation time do you get?,"15 days vacation 5 days of sick. I work fully remote so I rarely use any sick days., Unlimited PTO. I usually take about 4-5 weeks off.  Boss has never denied it., “Unlimited PTO” + 12 holidays.
+
+Most people use between 4-6 weeks of PTO (survey conducted where around 700 people, 6% of the company at the time, responded). There have been instances where the department director straight up encouraged using PTO (after had lay offs last year to process/say goodbye to coworkers, during holiday season for specific cultures, after major deadlines, etc.) I think our department culture is good on that. PTO has never been declined.
+
+1 YOE., “Unlimited PTO”, I usually take between 4-6 weeks each year. 10 company holidays., Started with 2 weeks, now I’m at 5 weeks of vacation, with the same company for 2 decades., I’m in Canada and get 42 days off and unlimited sick time, I take about 6 weeks off a year with unlimited PTO. We also have company holidays and they give us a little over a week PTO for Christmas., Unlimited PTO and 2 weeks sick. 
+
+I’ve always used 4-5 weeks and at least a week of sick., Not enough. 3 weeks currently. To be honest, vacation time would cause me to change jobs quicker than salary., At my last job:
+
+* 15 Days PTO
+* 10 Company Holidays
+* If you are sick then don't come in an infect everybody
+
+If you worked on a company holiday then you can gain that back as a PTO day.  You can only roll over 15 PTO days in a given year.  So if you have more than 15 days then they become use it or lose it by the end of the calendar year., 15 vacation 2 personal 4 flex and 10 sick days
+
+Worked two weekends for a product release so I’m taking half of next week off to take advantage of Memorial Day, I get 3 weeks. That’s the minimum my company offers. Once I’m there for another year I’ll hit 4 weeks. I believe 6 is where it maxes. I’ve been here 2 years., You should be getting more than 3 weeks after 11 years., Discretionary PTO up to 160 hours. After 160 hours, you need to write up a reason you need more hours. ""Unlimited"" plus all the government recognized holidays., Unlimited PTO, I am planning to take 4 weeks this year (my first), 23 PTO, 12 holidays, unlimited paid sick, 33 days including the 8 UK bank holidays, so 8 fixed plus 25 variable days off. Length of time with a company isn’t relevant for the amount of time off.
+
+Previously in Germany I had 30 days off plus the public holidays (~10 days per year, some years they fall on weekends so I had time off anyway and you don’t get another day off in return)., Per year I get 13 vacation days, 13 sick days, 5 personal days and I think 12-13 state/federal holidays, 4 weeks PTO. 5 sick days. 
+
+Fully remote in the US with 10 YOE, Unlimited PTO and i think 8 sick days"
+(Learning how to) build the same app 5 times (using different stacks) as a newbie in the industry,"I mean it's fine, you'll see a few different stacks, but it's probably going to be pretty easy after the first one is done. Generally the problem is not learning syntax in different technologies it's learning the techniques to solve different kinds of problems, I built the same project using multiple tech stacks (in a more sophisticated way) and it gave a lot of insight that made me a better SWE.
+
+But doing it is outside the norm and YMMV., This is stupid imo. Ur better off diving deep into a tech stack., Noted on this! I do plan on making another set of app but for a different problem whatsoever. Maybe for example I can build a management system using the 5 of them and then onto another more complex app. Is that approach okay?, No worries! Thank you for your input. Replies from another sub did recommend me to just stick to my current stack but mayhaps I am just worried since at work, I don't really have a specific stack to deal with, hence this decision to make."
+Don't Hire List,"Something like a “don’t hire” list is incredibly difficult to enforce.  It’s time and effort which yields no profit and is better spent on actual useful work.  Hiring managers mostly want to make their own decisions: they don’t like to be told who to consider or not consider.  Very few employers bother with them., Only if you do something particularly egregious in the interview, e.g. make racist comments. , Sounds awesome. Companies colluding to create a no hire list and then admitting to such is probably great grounds for a lawsuit., No, Not on engineer layer. At least I’ve never seen one. But idk about in HR layer, maybe their ATS that filters candidates., Yes, I have seen folks cheating in the loop and got marked no hire for recycling., [There was](https://9to5mac.com/2013/10/25/apple-faces-class-action-lawsuit-over-do-not-hire-arrangements-with-other-companies/), a decade ago. Resulted in a class action lawsuit.
+
+It’s _slightly_ different than you imply, but I’m guessing a “do not hire because we know you suck” list shared among companies would go the same way, You are right, why do you think they made the claim in their assessment ? or is it something they have across their clients but not industry standard or adapted by other companies?, Oh I don't mind blacklisting someone for being awful employee, but I'm talking about 1 HR adding someone to a cross-companies blacklist that gets you auto disqualified once applied., That's what I was thinking. It seems like it would be a defamation attorney's dream class action case. Cha-ching!!!, The list is certainly only shared across their clients and their clients mostly don’t check it if you apply to them through other avenues., Then no. , Thank you"
+How does MLE experience translate to Backend Development ?,
+Changing the technology after 15+ years of experience in database programming,"I think it's a tough time right now to find a job in tech, especially if you are looking for a first job in a new stack. A lot of good candidates out there due to layoffs, companies won't want to train people if they don't have to. That being said, markets change over time and having sql and some c#/.net skills is better than just sql., ""What do you think? Did he make a wrong decision?""
+
+Based on my surface-level understanding of his background, I'd say it's fine. Wouldn't surprise me if he ends up regretting it though.
+
+""there's few pure SQL jobs, and second, many of them require interaction with end users, something which he despises""
+
+This has me the most concerned. There's very few ""pure anything"" jobs. IMO, the majority of SWE jobs on the market require a ""thick skin generalist mindset"".
+
+Also, life as a SWE can contain a lot of ""helping project managers / business analysts talk with clients / users to figure out their business needs, gather requirements, create estimates, etc."" As well as a plenthora of other things that make the job more draining than it feels like it should be.
+
+Really, I think your friend is going to need to focus on finding the right role at the right company. Learning C# / .NET will expand their options, and I think it's still a good idea, but it's not going to be a silver bullet by itself., Thanks! I agree. My opinion is he embarked on a great and difficult journey, which should pay off in the mid run, but it's extremely tough. He's very courageous and has my admiration.  
+  
+I'm looking forward to hear about other people's experience and opinions on this., Thank you very much for your feedback!
+
+>Also, life as a SWE can be a lot ""helping project managers / business analysts talk with users to figure out their business needs, gather requirements, create estimates, etc.""
+
+Many of the software engineers do not gather requirements and figure the business needs! This isn't what a software engineer does.
+
+A software engineer can be in the periodic calls with the client, but it's only for having a chance to hear and better understand about the business of the client, the project and the tasks.
+
+The exception can be maybe when working in a startup, but this is a different thing., ""A software engineer can be in the periodic calls with the client, but it's only for having a chance to hear and better understand about the business of the client, the project and the tasks.""
+
+This is mainly what I'm referring to, and again, it's going to boil down to ""right role at the right company"".
+
+During a government contract role, we had a project that was having a hard time getting off the ground. I was the person they were going to eventually hand the project too, so they brought me on board discussions, and the back and forth after I got involved still took weeks. It wasn't a waterfall situation either, just a weird mix of responsibilities between different departments.
+
+I don't think this is unheard of, even for larger orgs., My point is, it's one thing to be part of calls just to have a better understanding of the business, another thing is to actually ""gather requirements"" and ""figure out what the business needs"".
+
+These are not the responsibilities of a software engineer.
+
+And these are things which made my friend basically hate his job and decide he should learn new skills for the type of technologies which typically do not require having to talk with end users, figure out what they need, and gather requirements. My friend did this for many many years, which made him very tired and made him spent a lot of time doing other things than not write code."
+"Is it true that more and more companies will be outsourcing their team to Europe and cheaper countries from the US to cut down on costs? Recently, Google has been moving a lot of their departments from the US to Dublin, Munich, India, Mexico and that sparkled the debate. What's your stance on it?  ","The place that laid off 30% of its staff last month has been trying to hire in South America, Most of the engineering team (including myself) was laid off from a startup at the end of April. They're replacing us by outsourcing because it's cheaper., There should be huge tax penalty for this, Europe has better laws to protect the workforce., TBH I don’t know why they haven’t been doing that already for 10 years. There are so many legal and social barriers that prevent top talent from moving to the US. FAANG companies can pay 0.3-0.7 of their US salaries and still get equivalent quality of workers., Of course. A really good engineer without management responsibilities in Germany makes €150k. Other engineers make less.
+
+Compare that to California salaries.
+
+Then Europeans don't need the same amount of supervision as projects in India. 
+
+US engineers must produce significantly more per $ than other counterparts. Against India it is usually doable, against Europe, I am not so sure., My stance is something needs to be done but it’s likely nothing will and it will only get worse. 
+
+Unless people start fighting back, companies will continue to fuck U.S. citizens over for profit., didnt we beat this dead horse like last week? go visit the earlier threads there is thousands of comments, Should be a huge tax penalty doing this, As a south American software dev, I’ve been working for USA companies for the last 8 years. They pay me less than a murican, but it’s still x4 that I would make working for a national company. Win-win
+Nothing new, In Europe, we earn much less, for us 100k-150k $ a year is really good salary for senior engineer. But for company it's much harder to lay off, you need to show what employee did wrong for long period of time. Employees are really protected here + social part is fine, medical etc, so we are satisfied even if we are getting paid 3-4 times less then our US friends. Also US companies like EU because we are similar to you. For example I'm working in the dev team for one of the largest US banks and they prefer to have colleagues from EU rather then India or other parts of Asia., people do what's best for themselves
+  
+that includes the candidate side
+  
+that includes the company side, If your job can be done fully remotely while you’re also doing your dishes and cleaning your apartment, there’s no reason your job needs to be paying a US-level salary.
+
+Cold hard truth some of you all don’t want to hear. You fully remote employees are not all as irreplaceable as you think you are., In India a factory that moved was paying ENGINEERS  100 per MONTH  when word got out they burned the factory down think about that for a moment 100 per month workers were paid 5-13 per month 
+
+Many factories moved to China where they were paying 91 cents per day, Yes, outsourcing is cheaper, they can pay some of these people less than $10 an hour to do what they consider, the same work., I kinda see that around too, not in my company per se, but realistically my company has a TTL in the current configuration. But in my SO's previous two companies, **lots** of outsourcing. A bit unnerving tbh., Ngl if they paid me shit but I can live in Patagonia I’d probably go. , Ireland for the tax
+
+India for the cost
+
+Don't think many companies moving to Munich tbh. More likely Poland or Romania or something, I think people would be very disheartened if they saw the magnitude that this practice is used in the US health insurance industry. The business model is essentially to take government subsidies and make Americans pay out of pocket to the maximum extent possible, all while employing as few Americans as possible. It’s BS to see so many new grads drowning from the current market conditions as they face mountains of student debt with minimal job prospects, and then watch internally as my company slashes hundreds of new grad roles (among others) and move those exact same roles to other countries. And I know that we’re not the only ones doing the exact same thing either.
+
+People love to fall back on the argument of, “well that’s capitalism for you”, but I’ve honestly never heard anyone advocate for complete laissez-faire capitalism. Everyone has thresholds for places where government intervention is necessary, and this is one place that the government absolutely should intervene with participants in the US economy. I’m a firm believer in the importance of private, competitive markets, but I do draw the line at the point where you don’t proportionally employ people from the country whose economy your business relies on (or even come close to doing so). And especially so when your business leeches taxpayer dollars and generates the vast majority of its revenue from those same taxpayers. 
+
+This extends beyond just IT jobs (as well as beyond health insurance industry as I’ve been talking about), but obviously that’s the focus of this particular thread and health insurance is the industry I can speak about most accurately. And to answer your original question directly, OP: yes it is true, and it’s a garbage practice that needs to be corrected. It directly takes opportunities away from Americans and ruins the QoL for the people who remain employed but have to go to wildly unreasonable extents to do their job because their day to day work is now so tightly coupled with colleagues whose time zones are 12 hours apart., Probably, I watched mine do it and continue to do it.  It's not just CS, any remote job and even some manufacturing."
